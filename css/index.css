@@ -1,0 +1,4 @@
+  *  , ::after  ,  ::before  {margin:0;padding:0;box-sizing:border-box;}
+  body , html  {overflow:hidden;font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;scroll-behavior: smooth;}  
+  body  {display:grid;place-items:center;} 
+  body  >  canvas  {border:solid  2.1px   #000;}
